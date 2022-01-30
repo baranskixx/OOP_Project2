@@ -1,0 +1,8 @@
+armyYes,goldYes,foodYes,techYes,armyNo,goldNo,foodNo,techNo,description
+0,-20,30,0,0,0,-20,0,"Panie, twoi podddani nie są zadowoleni ze stanu spichlerzu, obawiają się problemów z dostępem do żywności. Radzę zakupić trochę jedzenia."
+0,0,0,-20,0,-10,0,20,"Panie, nasze królestwo dosięgnęła dziwna zaraza. Radzę wysłać uczniów na naukę zdalną, inaczej zaraz rozprzestrzeni się co spowolni naszą gospodarkę!"
+-10,30,0,0,0,0,0,0,"Panie, sojusznicy wołają o Twą pomoc! Wyślij na pomoc swe wojka a obsypią Cię złotem."
+20,-10,0,0,-10,0,0,0,"Panie, dwóch mężnych Galów pojawiło się u twych bram. Oferują podszkolenie twojego wojska w zamian za drobną opłatą"
+0,-50,0,-50,0,0,0,0,"Panie, dziwny pan w muszce proponuje wprowadzenie prywatnej służby zdrowia. Człowiek ten był niegdyś cenionym szachistą. Może warto go wysłuchać?"
+-10,0,0,0,0,0,-20,0,"Panie, nasze pola plądruje plaga borsuków. Czy mamy wysłać żołnierzy by je przegonić?"
+0,-20,0,0,-10,-20,0,0,"Panie, utopce plądrują spichlerz? Chce Pan wynająć wiedźmina, by się z nimi rozprawił?"
