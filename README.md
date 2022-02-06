@@ -3,7 +3,8 @@
 Simple game inspired by "Reigns" (https://www.youtube.com/watch?v=SmBUoaIxB4E).  
 Created with Java.  
 GUI fully made in JavaFX.  
-Game was created as a optional project during Object Oriented Programming course (Computer Sciene, AGH University of Science and Technology). 
+.csv files handled with OpenCSV (http://opencsv.sourceforge.net).  
+Game was created as a optional project during Object Oriented Programming course (Computer Sciene, AGH University of Science and Technology).  
 
 
 ### Technical requirements (in Polish)
